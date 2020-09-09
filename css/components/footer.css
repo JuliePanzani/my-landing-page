@@ -1,0 +1,12 @@
+.footer {
+	display: flex;
+	background-color:#FFF8F0;
+	justify-content: space-around;
+	padding: 30px 0px;
+	align-items: center;
+	font-family: 'roboto', sans-serif;
+	color: #453A49;
+}
+
+
+
